@@ -101,7 +101,7 @@ I have developed projects such as [NBA-StatVision](https://github.com/ferroblesm
 
 > “Data tells stories… I help to find them.” 📊
 
-⬆️ [Back to top](#-español--english--italiano)
+⬆️ [Back to top](#top)
 
 ---
 
@@ -149,4 +149,4 @@ Ho sviluppato progetti come [NBA-StatVision](https://github.com/ferroblesmdq12/N
 > “I dati raccontano storie… io aiuto a trovarle.” 📊
 
 
-⬆️ [Torna all'inizio](#-español--english--italiano)
+⬆️ [Torna all'inizio](#top)
