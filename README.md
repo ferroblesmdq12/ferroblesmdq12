@@ -1,16 +1,13 @@
 # ferroblesmdq12
 <a id="top"></a>
 
-### 🌐 Español | English | Italiano ↓
-
-- [🇦🇷 Español](#-hola-soy-fernando)
-- [🇬🇧 English](#-hi-im-fernando)
-- [🇮🇹 Italiano](#-ciao-sono-fernando)
+### 🌐 [🇦🇷 Español](#es) | [🇬🇧 English](#en) | [🇮🇹 Italiano](#it)
 
 ---
 
 
 <!-- ESPAÑOL -->
+<a id="es"></a>
 
 # 🇦🇷 👋 ¡Hola! Soy Fernando
 
@@ -59,6 +56,7 @@ Actualmente desarrollé proyectos como [NBA-StatVision](https://github.com/ferro
 
 
 <!-- ENGLISH -->
+<a id="en"></a>
 
 # 🇬🇧 👋 Hi! I'm Fernando
 
@@ -106,6 +104,7 @@ I have developed projects such as [NBA-StatVision](https://github.com/ferroblesm
 ---
 
 <!-- ITALIANO -->
+<a id="it"></a>
 
 # 🇮🇹 👋 Ciao! Sono Fernando
 
