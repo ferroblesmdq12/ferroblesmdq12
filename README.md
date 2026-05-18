@@ -11,7 +11,7 @@
 
 # 🇦🇷 👋 ¡Hola! Soy Fernando
 
-📍 Mar del Plata, Argentina  
+📍 Palma, Islas Baleares, España  
 🛠️ Python | Power BI | SQL | Git | AI AUTOMATION | n8n 
 
 Soy Analista de Datos, apasionado por Python, SQL, Power BI y la visualización de datos.  
@@ -60,7 +60,7 @@ Actualmente desarrollé proyectos como [NBA-StatVision](https://github.com/ferro
 
 # 🇬🇧 👋 Hi! I'm Fernando
 
-📍 Mar del Plata, Argentina  
+📍 Palma, Islas Baleares, España   
 🛠️ Python | Power BI | SQL | Git | AI AUTOMATION | n8n 
 
 I am a Data Analyst passionate about Python, SQL, Power BI, and data visualization.  
@@ -108,7 +108,7 @@ I have developed projects such as [NBA-StatVision](https://github.com/ferroblesm
 
 # 🇮🇹 👋 Ciao! Sono Fernando
 
-📍 Mar del Plata, Argentina  
+📍 Palma, Islas Baleares, España  
 🛠️ Python | Power BI | SQL | Git | AI AUTOMATION | n8n 
 Sono un Analista dei Dati, appassionato di Python, SQL, Power BI e visualizzazione dei dati.  
 Ho sviluppato progetti come [NBA-StatVision](https://github.com/ferroblesmdq12/NBA-StatVision) (progetto collaborativo) e [Biogenesys](https://github.com/ferroblesmdq12/Biogenesys) durante la mia formazione.
